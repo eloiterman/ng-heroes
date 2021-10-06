@@ -22,37 +22,7 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
   }
 
-/*this is also in heroes components scss but after refractoring with services -it wasn't showing styles -added here to fix that -find out what happened later */
-
-/*temp custom styles of my own  */
-/*ul.heroes {
-    list-style-type: none;
-    color:#9c9b9a;
-    background-color:#f2f2f2;
-    font-size:20px;
-    width: 40%;
-}
-
-
-ul.heroes li span{
-    background-color:#ce2c2c;
-    color:#fff;
-    padding:5px
-}
-
-ul.heroes li {
-    padding:5px;
-}
-
-li:hover{
-    cursor:pointer;
-    background-color:#ccc;
-transition: 0.5s;
-
-
-}*/
-
-/* HeroesComponent's private CSS styles */
+/* HeroesComponent's private CSS styles 
 .heroes {
   margin: 0 0 2em 0;
   list-style-type: none;
@@ -104,3 +74,4 @@ transition: 0.5s;
 input {
   padding: .5rem;
 }
+*/
